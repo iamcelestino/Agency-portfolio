@@ -1,0 +1,19 @@
+{
+  "name": "agency-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcelestino/Agency-portfolio.git"
+  },
+  "author": "Celestino Trosso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcelestino/Agency-portfolio/issues"
+  },
+  "homepage": "https://github.com/iamcelestino/Agency-portfolio#readme"
+}
