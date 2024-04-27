@@ -5,14 +5,16 @@ module.exports = {
         "./src/**/*.js"
     ],
     theme: {
-      extend: {},
+      extend: {
+
+      },
       container: {
         center: true,
         padding: {
           DEFAULT: '1.5rem',
           sm: '1.5rem',
           md: '3rem',
-          xl: '5rem'       
+          xl: '4rem'       
         }
       }
     },
