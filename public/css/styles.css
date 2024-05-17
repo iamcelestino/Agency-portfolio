@@ -921,10 +921,6 @@ video {
     width: 100%;
   }
 
-  .sm\:grow {
-    flex-grow: 1;
-  }
-
   .sm\:border-x-2 {
     border-left-width: 2px;
     border-right-width: 2px;
