@@ -606,6 +606,10 @@ video {
   margin: 0px;
 }
 
+.m-4 {
+  margin: 1rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -674,6 +678,10 @@ video {
 
 .w-6 {
   width: 1.5rem;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .grow {
@@ -918,6 +926,11 @@ video {
   text-transform: uppercase;
 }
 
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
 .text-gray-400 {
   --tw-text-opacity: 1;
   color: rgb(156 163 175 / var(--tw-text-opacity));
@@ -931,6 +944,10 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.opacity-15 {
+  opacity: 0.15;
 }
 
 .hover\:bg-white:hover {
@@ -996,6 +1013,10 @@ video {
 
   .md\:col-auto {
     grid-column: auto;
+  }
+
+  .md\:mb-0 {
+    margin-bottom: 0px;
   }
 
   .md\:mb-4 {
